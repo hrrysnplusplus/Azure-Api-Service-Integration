@@ -9,7 +9,7 @@ namespace SparkfishTwo.Controllers;
 
 
 [ApiController]
-[Route("api/")]
+[Route("/")]
 public class SparkfishController : ControllerBase
 {
 
