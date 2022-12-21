@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33020.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SparkfishTwo", "SparkfishTwo\SparkfishTwo.csproj", "{52AF470A-2B1F-4486-BF5F-8273D8A87DDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52AF470A-2B1F-4486-BF5F-8273D8A87DDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52AF470A-2B1F-4486-BF5F-8273D8A87DDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52AF470A-2B1F-4486-BF5F-8273D8A87DDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52AF470A-2B1F-4486-BF5F-8273D8A87DDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1959E07B-B64D-42A2-8997-C4668FEA0208}
+	EndGlobalSection
+EndGlobal
